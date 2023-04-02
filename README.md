@@ -1,1 +1,1 @@
-# python-django-web-blog
+django social
