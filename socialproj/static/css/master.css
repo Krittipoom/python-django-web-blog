@@ -8,14 +8,14 @@ body {
   height: 100%;
   width: 100%;
   overflow: hidden;
-  background: #191063;
+  background: #121113;
   margin: 0;
 }
 
 
 #note {
   position: absolute;
-  color: rgba(249,241,204,1);
+  color: #899878;
   left: 0;
   right: 0;
   bottom: 20px;
