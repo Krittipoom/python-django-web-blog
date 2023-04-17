@@ -1,5 +1,5 @@
 # Django Social net Web Application
-A repo of Social media Web Application including user login, group and post 
+A Social media Web Application including user login, group and post 
 
 build with Python Django framework
 
